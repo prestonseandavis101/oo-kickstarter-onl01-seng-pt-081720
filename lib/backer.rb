@@ -5,7 +5,7 @@ class Backer
   attr_reader :backer
   
   def initialize(name)
-    @backer=backer
+    #@backer=backer
     @name=name
     @backed_projects = []
     binding.pry
