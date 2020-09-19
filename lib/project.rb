@@ -7,6 +7,6 @@ def initialize(title)
   end
   
   def initialize(backer)
-    
-  
+    @backers << backer
+  end
 end
