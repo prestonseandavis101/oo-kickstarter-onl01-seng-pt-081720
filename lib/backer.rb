@@ -5,7 +5,7 @@ class Backer
   #attr_reader :backer --> may not need this
   
   def initialize(name)
-    #@backer=backer
+    #@backer=backer --> may not need this
     @name=name
     @backed_projects = []
     #binding.pry
