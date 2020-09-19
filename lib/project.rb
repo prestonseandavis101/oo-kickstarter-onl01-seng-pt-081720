@@ -5,4 +5,8 @@ def initialize(title)
   @title=title
   @backers = []
   end
+  
+  def initialize(backer)
+    
+  
 end
