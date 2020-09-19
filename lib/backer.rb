@@ -8,7 +8,7 @@ class Backer
     #@backer=backer
     @name=name
     @backed_projects = []
-    binding.pry
+    #binding.pry
   end
   
 end 
