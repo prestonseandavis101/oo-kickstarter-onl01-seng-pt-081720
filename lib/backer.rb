@@ -7,6 +7,7 @@ class Backer
   def initialize(name)
     @backer=backer
     @name=name
+    @backed_projects = []
     #binding.pry
   end
   
